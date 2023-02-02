@@ -1,8 +1,12 @@
-.eee.zzz {
+h2.bbb.zzz {
 	color: red;
 }
 
 .eee.zzz.ccc {
 	color: green;
 	font-size: 40px;
+}
+
+#elem.zzz {
+	color: blue;
 }
