@@ -1,12 +1,14 @@
-h2.bbb.zzz {
-	color: red;
-}
-
-.eee.zzz.ccc {
-	color: green;
-	font-size: 40px;
-}
-
-#elem.zzz {
+#block h1, #block h2{
+	text-align: center;
 	color: blue;
+	font-size: 16px;
+}
+#block h3{
+	text-align: center;
+	color: red;
+	font-size: 16px;
+}
+.xxx, .eee, h2.zzz{
+	text-align: center;
+	color: green;
 }
