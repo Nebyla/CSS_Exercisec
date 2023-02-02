@@ -1,6 +1,8 @@
-#elem h2 {
+.eee.zzz {
 	color: red;
 }
-#elem1 .text{
+
+.eee.zzz.ccc {
 	color: green;
+	font-size: 40px;
 }
