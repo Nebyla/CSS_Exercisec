@@ -1,14 +1,10 @@
 #elem {
-	border-width: 5px;
-	border-style: double;
-	border-color: blue;
+	border: 5px double orange;
 	width: 200px;
 	height: 150px;
 }
 #bocks {
-	border-width: 5px;
-	border-style: dotted;
-	border-color: red;
+	border: 5px dotted blue;
 	width: 200px;
 	height: 150px;
 }
