@@ -1,12 +1,8 @@
-li{
-	border: 1px solid red;
-	list-style-type: circle;
-	color: red;
-	width: 200px;
+div {
+	border: 1px dashed black;
+	padding: 15px;
+	margin-bottom: 10px;
 }
-li:empty {
-	border: 1px solid blue;
-	list-style-type: circle;
-	color: blue;
-	width: 200px;
+h2:only-of-type {
+	color: red;
 }
