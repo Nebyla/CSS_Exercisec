@@ -1,17 +1,6 @@
-#block, .bbb
-{
-	text-align: center;
-	color: blue;
-	font-size: 16px;
-}
-.fff, h2.xxx
-{
-	text-align: center;
-	color: red;
-	font-size: 16px;
-}
-.xxx
-{
-	text-align: center;
-	color: green;
+#elem {
+	width: 200px;
+	height: 150px;
+	color: white;
+	background-color: green
 }
