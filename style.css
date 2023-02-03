@@ -1,17 +1,8 @@
-#block, .bbb
-{
-	text-align: center;
+h2 {
+	font-size: 20px;
 	color: blue;
-	font-size: 16px;
 }
-.fff, h2.xxx
-{
-	text-align: center;
+h2 {
+	font-style: italic;
 	color: red;
-	font-size: 16px;
-}
-.xxx
-{
-	text-align: center;
-	color: green;
 }
