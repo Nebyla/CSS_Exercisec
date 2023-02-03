@@ -1,6 +1,12 @@
-.block a.zzz {
+li{
+	border: 1px solid red;
+	list-style-type: circle;
 	color: red;
+	width: 200px;
 }
-.block a.zzz:hover {
-	text-decoration: none;
+li:empty {
+	border: 1px solid blue;
+	list-style-type: circle;
+	color: blue;
+	width: 200px;
 }
