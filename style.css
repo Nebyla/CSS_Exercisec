@@ -1,17 +1,11 @@
-.parent1 {
+.parent {
+    text-align: right;
     padding: 10px 0;
-    border: 1px solid red;
-    text-align: center;
+    border: 1px solid blue;
 }
 
-.parent2 {
-    padding: 10px 0;
+.child {
+    width: 100px;
+    padding: 10px;
     border: 1px solid red;
-    text-align: right;
-}
-
-.parent3 {
-    padding: 10px 10px 10px 10px;
-    border: 1px solid red;
-    text-align: right;
 }
